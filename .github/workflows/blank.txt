@@ -1,0 +1,10 @@
+local Var = 0
+
+
+if Var == 0 then
+  Var = 1
+end
+
+while true do
+  script.parent.transparency = Var
+end
