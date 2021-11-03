@@ -1,4 +1,4 @@
-# hello-world
+# Ideas
 A place for new ideas!
 
 So as the description says, this place is gonna be 
